@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body {
+      -ms-overflow-style: none;  /* IE and Edge */
+      scrollbar-width: none;  /* Firefox */
+    }
+    body::-webkit-scrollbar {
+      display: none;  /* Chrome, Safari, Opera */
+    }
+  </style>
+</head>
+<body>
+  <!-- Aquí va tu contenido desplazable -->
+  <div>
+    <!-- Reemplaza este texto con el contenido que deseas que sea desplazable -->
+    <p>Este es un ejemplo de contenido desplazable.</p>
+    <p>Agrega más contenido aquí...</p>
+  </div>
+</body>
+</html>
